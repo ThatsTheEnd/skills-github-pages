@@ -1,3 +1,8 @@
+---
+title: "Powershell and Environment Variables"
+date: 2025-07-03
+---
+
 # This is just for me because I keep forgetting how to set environment variables in powershell - but it's actually quite simple
 
 ## Non-persistent Option
