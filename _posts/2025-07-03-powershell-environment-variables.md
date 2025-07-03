@@ -1,5 +1,5 @@
 ---
-title: "Powershell and Environment Variables"
+title: "Powershell-and-Environment-Variables"
 date: 2025-07-03
 ---
 
